@@ -113,7 +113,7 @@
 		"@xmldom/xmldom": "0.9.8",
 		"axios": "1.11.0",
 		"chalk": "5.4.1",
-		"compression": "1.8.0",
+		"compression": "1.8.1",
 		"core-js": "3.45.0",
 		"express": "5.1.0",
 		"harmony-reflect": "1.6.2",
