@@ -106,8 +106,8 @@
 		]
 	},
 	"dependencies": {
-		"@bugsnag/js": "8.2.0",
-		"@bugsnag/plugin-react": "8.2.0",
+		"@bugsnag/js": "8.6.0",
+		"@bugsnag/plugin-react": "8.6.0",
 		"@next/bundle-analyzer": "15.3.3",
 		"@reduxjs/toolkit": "2.8.2",
 		"@xmldom/xmldom": "0.9.8",
