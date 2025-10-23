@@ -148,7 +148,7 @@
 		"@babel/core": "7.28.0",
 		"@eslint/js": "9.33.0",
 		"@fastify/pre-commit": "2.2.0",
-		"@swc/jest": "0.2.38",
+		"@swc/jest": "0.2.39",
 		"@testing-library/jest-dom": "6.6.3",
 		"@testing-library/react": "16.3.0",
 		"babel-plugin-formatjs": "10.5.39",
