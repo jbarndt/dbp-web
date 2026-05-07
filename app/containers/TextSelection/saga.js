@@ -166,7 +166,7 @@ export function* getTexts({ languageCode, languageIso }) {
 }
 
 export function* getLanguages() {
-	const requestUrl = `/languages?has_filesets=true`;
+	const requestUrl = `/languages?has_filesets=true&limit=150`;
 
 	try {
 		const languages = [];
@@ -205,7 +205,7 @@ function sortLanguagesByVname(a, b) {
 }
 // Second call for the more robust language data
 export function* getLanguageAltNames() {
-	const requestUrl = `/languages?has_filesets=true&include_alt_names=true`;
+	const requestUrl = `/languages?has_filesets=true&include_alt_names=true&limit=150`;
 	try {
 		const languageData = [];
 
